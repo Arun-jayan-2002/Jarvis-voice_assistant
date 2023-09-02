@@ -39,7 +39,7 @@ This Python script implements a voice-controlled virtual assistant, similar to S
 
 ## Usage
 
-- To wake up the assistant, say "Wake up," "Jarvis," "Makeup," or "Backup."
+- To wake up the assistant, say "Wake up" or "Jarvis". 
 - Ask questions or give commands, and the assistant will attempt to fulfill them.
 - Examples of commands include asking about the weather, requesting news updates, sending WhatsApp messages, and more.
 - You can also customize the assistant's voice by saying "Voice" followed by "Female" or "Male."
