@@ -20,17 +20,17 @@ This Python script implements a voice-controlled virtual assistant, similar to S
 
 1. Install the required Python libraries using the following command:
     pip install PYQT5
-    pip install pyttsx3
-    pip install speech_recognition
-    pip install Date time
-    pip install OS
-    pip install wikipedia
-    pip install web browser
-    pip install requests
-    pip install bs4
-    pip install psutil
-    pip install pywhatkit
-    pip install pyjokes
+   , pip install pyttsx3
+   , pip install speech_recognition
+   , pip install Date time
+   , pip install OS
+   , pip install wikipedia
+   , pip install web browser
+   , pip install requests
+   , pip install bs4
+   , pip install psutil
+   , pip install pywhatkit
+   , pip install pyjokes
 
 2. Run the Python script:
    main.py
